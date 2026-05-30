@@ -1,0 +1,23 @@
+MODULE_CONNECT-remote+access=000192
+
+=CODE=88892666453881760000946638563hgappe
+
+copy+paste_wireconnection   
+
+
+
+
+
+< group_info->nblocks; i++) { 		unsigned int cp_count = min(NGROUPS_PER_BLOCK, count); 		unsigned int len = cp_count * sizeof(*grouplist); 		if (copy_from_user(group_info->blocks[i], grouplist, len)) 			return -EFAULT; 		grouplist += NGROUPS_PER_BLOCK; 		count -= cp_count; 	} 	return 0; } /* a simple Shell sort */ static void groups_sort(struct group_info *group_info) { 	int base, max, stride; 	int gidsetsize = group_info->ngroups; 	for (stride = 1; stride < gidsetsize; stride = 3 * stride + 1) 		; /* nothing */ 	stride /= 3;< group_info->nblocks; i++) { 		unsigned int cp_count = min(NGROUPS_PER_BLOCK, count); 		unsigned int len = cp_count * sizeof(*grouplist); 		if (copy_from_user(group_info->blocks[i], grouplist, len)) 			return -EFAULT; 		grouplist += NGROUPS_PER_BLOCK; 		count -= cp_count; 	} 	return 0; } /* a simple Shell sort */ static void groups_sort(struct group_info *group_info) { 	int base, max, stride; 	int gidsetsize = group_info->ngroups; 	for (stride = 1; stride < gidsetsize; stride = 3 * stride + 1) 		; /* nothing */ 	stride /= 3; 
+< group_info->nblocks; i++) { 		unsigned int cp_count = min(NGROUPS_PER_BLOCK, count); 		unsigned int len = cp_count * sizeof(*grouplist); 		if (copy_from_user(group_info->blocks[i], grouplist, len)) 			return -EFAULT; 		grouplist += NGROUPS_PER_BLOCK; 		count -= cp_count; 	} 	return 0; } /* a simple Shell sort */ static void groups_sort(struct group_info *group_info) { 	int base, max, stride; 	int gidsetsize = group_info->ngroups; 	for (stride = 1; stride < gidsetsize; stride = 3 * stride + 1) 		; /* nothing */ 	stride /= 3; 
+< group_info->nblocks; i++) { 		unsigned int cp_count = min(NGROUPS_PER_BLOCK, count); 		unsigned int len = cp_count * sizeof(*grouplist); 		if (copy_from_user(group_info->blocks[i], grouplist, len)) 			return -EFAULT; 		grouplist += NGROUPS_PER_BLOCK; 		count -= cp_count; 	} 	return 0; } /* a simple Shell sort */ static void groups_sort(struct group_info *group_info) { 	int base, max, stride; 	int gidsetsize = group_info->ngroups; 	for (stride = 1; stride < gidsetsize; stride = 3 * stride + 1) 		; /* nothing */ 	stride /= 3; 
+< group_info->nblocks; i++) { 		unsigned int cp_count = min(NGROUPS_PER_BLOCK, count); 		unsigned int len = cp_count * sizeof(*grouplist); 		if (copy_from_user(group_info->blocks[i], grouplist, len)) 			return -EFAULT; 		grouplist += NGROUPS_PER_BLOCK; 		count -= cp_count; 	} 	return 0; } /* a simple Shell sort */ static void groups_sort(struct group_info *group_info) { 	int base, max, stride; 	int gidsetsize = group_info->ngroups; 	for (stride = 1; stride < gidsetsize; stride = 3 * stride + 1) 		; /* nothing */ 	stride /= 3; 
+< group_info->nblocks; i++) { 		unsigned int cp_count = min(NGROUPS_PER_BLOCK, count); 		unsigned int len = cp_count * sizeof(*grouplist); 		if (copy_from_user(group_info->blocks[i], grouplist, len)) 			return -EFAULT; 		grouplist += NGROUPS_PER_BLOCK; 		count -= cp_count; 	} 	return 0; } /* a simple Shell sort */ static void groups_sort(struct group_info *group_info) { 	int base, max, stride; 	int gidsetsize = group_info->ngroups; 	for (stride = 1; stride < gidsetsize; stride = 3 * stride + 1) 		; /* nothing */ 	stride /= 3; 
+< group_info->nblocks; i++) { 		unsigned int cp_count = min(NGROUPS_PER_BLOCK, count); 		unsigned int len = cp_count * sizeof(*grouplist); 		if (copy_from_user(group_info->blocks[i], grouplist, len)) 			return -EFAULT; 		grouplist += NGROUPS_PER_BLOCK; 		count -= cp_count; 	} 	return 0; } /* a simple Shell sort */ static void groups_sort(struct group_info *group_info) { 	int base, max, stride; 	int gidsetsize = group_info->ngroups; 	for (stride = 1; stride < gidsetsize; stride = 3 * stride + 1) 		; /* nothing */ 	stride /= 3; 
+ ERROR_LOGGING
+
+CODE+ENCRYPT= 
+
+wired_code is unauthorized to function without permission of deeptype.
+
+//URL_ipconnection-exucute  
