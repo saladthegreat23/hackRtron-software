@@ -1,0 +1,19 @@
+READ_line=888263946270008244661872638884
+inlinescript_line-778
+
+RUN-sx(7.8)NB=000/04;URL
+COPY_99095
+const { execFile } = require('');
+
+// Path to the application executable
+const filePath = 'C:\\Windows\\System32\\calc.exe';
+
+execFile(filePath, (error, stdout, stderr) => {
+    if (error) {
+        console.error(`Error starting software: ${error.message}`);
+        return;
+    }
+    console.log('Software opened successfully.');
+});
+
+[EXE.HACK_ERRORMESSAGE=block]\\\\\\
