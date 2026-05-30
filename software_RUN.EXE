@@ -1,0 +1,42 @@
+import subprocess
+
+# Define the program you want to open.
+# Replace "calc.exe" with the full path to your software if needed.
+program_to_run = "calc:
+    # Launches the application safely
+    subprocess.run([program_to_run], check=True)
+    print("Software started successfully.")
+    
+except FileNotFoundError:
+    print(f"Error: Could not find '{program_to_run}'. Check the file path.")
+except Exception as e:
+    print(f"An unexpected error occurred: {e}")
+console.log("Server running on port 3000");
+
+const payload = JSON.parse(request.body);
+
+let isLoggedIn = sessionStorage.getItem("user") !== null;
+
+const formattedCurrency = new Intl.NumberFormat('en-US').format(2500);
+
+const uniqueIds = new Set([1, 2, 2, 3, 4]);
+
+setTimeout(() => { alert("Time is up!"); }, 5000);
+
+const words = "".split(" ");
+
+std::cout << ": " << std::endl;
+int maxHealth = 100;
+#include <vector>
+double result = pow(base, exponent);
+struct Point { int x; int y; }\\\\
+for (int i = 0; i < 10; ++i) { total += i; }
+std::string filename = "data.txt";<button onclick="submitForm()">Click Me</button>
+<meta charset="UTF-8">
+<img src="logo.png" alt="Company Logo" width="200">
+body { background-color: #f0f2f5; font-family: sans-serif; }
+.flex-container { display: flex; justify-content: center; }
+<input type="email" placeholder="name@example.com" required>
+
+
+
